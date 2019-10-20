@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280547546346",
+    "firebase_url": "https://ucheck-4a1a5.firebaseio.com",
+    "project_id": "ucheck-4a1a5",
+    "storage_bucket": "ucheck-4a1a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280547546346:android:f08887f896fcd3b56b7393",
+        "android_client_info": {
+          "package_name": "com.myappcompany.rajan.ucheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280547546346-klf2evfa1co0rc2gh6ei9aot4062rvon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myappcompany.rajan.ucheck",
+            "certificate_hash": "d343f87298897c06b5bc4067f9ef7cf229610808"
+          }
+        },
+        {
+          "client_id": "280547546346-o9pr9ag5lglr50nehcuc4vlj3jjkj2r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsAtYgdOV8luXFUafDHMExFaM5a0_vp8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280547546346-o9pr9ag5lglr50nehcuc4vlj3jjkj2r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
